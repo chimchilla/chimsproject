@@ -1,4 +1,5 @@
 <?php
+echo"hello fgts";
 /**
  * Created by PhpStorm.
  * User: chimchilla
